@@ -1,4 +1,4 @@
-                                                                    # Hii 👋 I'm Abhishek Rawat
+<p align ="center"># Hii 👋 I'm Abhishek Rawat</p>
 💫 About Me:
 🔭 I’m currently working on A portfolio website showcasing my frontend and backend projects using React, Tailwind CSS, and Node.js.<br>👯 I’m looking to collaborate on Open-source projects related to web development or AI-based learning tools.<br>🤝 I’m looking for help with Integrating APIs efficiently and improving UI/UX design skills.<br>🌱 I’m currently learning TypeScript, Next.js, and Docker for full-stack development.<br>💬 Ask me about JavaScript, frontend design with Tailwind CSS, or building dynamic web apps.<br>⚡ Fun factI love creating digital art and often merge it into my UI design projects!
 
@@ -16,4 +16,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Abby000001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
